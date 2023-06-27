@@ -1,3 +1,4 @@
+![logo](https://github.com/gkunal5802/gkunal5802/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kunal Garg</h1>
 <h3 align="center">I am a Web Developer</h3>
 
